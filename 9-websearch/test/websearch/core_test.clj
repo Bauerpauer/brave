@@ -1,0 +1,7 @@
+(ns websearch.core-test
+  (:require [clojure.test :refer :all]
+            [websearch.core :refer :all]))
+
+; (deftest a-test
+;   (testing "FIXME, I fail."
+;     (is (= 0 1))))
